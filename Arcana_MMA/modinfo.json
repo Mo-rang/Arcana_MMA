@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "Arcana_MMA",
+    "name": "Mythical Martial Arts - Arcana patch",
+    "authors": [ "Morang" ],
+    "maintainers": [ "Morang" ],
+    "description": "아르카나 + MMA 모드 (현재 하일리안 검술만)",
+    "category": "misc_additions",
+    "dependencies": [ "dda", "MMA", "Arcana" ]
+  }
+]
