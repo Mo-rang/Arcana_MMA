@@ -1,0 +1,16 @@
+[
+  {
+    "id": "sun_sword",
+    "copy-from": "sun_sword",
+    "type": "TOOL",
+    "name": { "str": "incorruptible sword" },
+    "extend": { "weapon_category": [ "HYLIAN_MASTER_SWORD" ] }
+  },
+  {
+    "id": "sun_sword_on",
+    "copy-from": "sun_sword_on",
+    "type": "TOOL",
+    "name": { "str": "incorruptible sword (on)" },
+    "extend": { "weapon_category": [ "HYLIAN_MASTER_SWORD" ] }
+  }
+]
