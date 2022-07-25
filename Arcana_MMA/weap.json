@@ -1,33 +1,5 @@
 [
   {
-    "id": "sun_sword",
-    "copy-from": "sun_sword",
-    "type": "TOOL",
-    "name": { "str": "incorruptible sword" },
-    "extend": { "weapon_category": [ "HYLIAN_MASTER_SWORD" ] }
-  },
-  {
-    "id": "sun_sword_on",
-    "copy-from": "sun_sword_on",
-    "type": "TOOL",
-    "name": { "str": "incorruptible sword (on)", "str_pl": "incorruptible swords (on)" },
-    "extend": { "weapon_category": [ "HYLIAN_MASTER_SWORD" ] }
-  },
-  {
-    "id": "longsword_plus_one",
-    "copy-from": "longsword_plus_one",
-    "type": "GENERIC",
-    "name": { "str": "longsword +1", "str_pl": "longswords +1" },
-    "extend": { "weapon_category": [ "HYLIAN_MASTER_SWORD" ] }
-  },
-  {
-    "id": "longsword_plus_two",
-    "copy-from": "longsword_plus_two",
-    "type": "GENERIC",
-    "name": { "str": "longsword +2", "str_pl": "longword +2" },
-    "extend": { "weapon_category": [ "HYLIAN_MASTER_SWORD" ] }
-  },
-  {
     "type": "martial_art",
     "id": "style_mma_hylian",
     "name": { "str": "Hylian Swordsmanship" },
